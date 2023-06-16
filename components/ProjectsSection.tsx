@@ -8,10 +8,10 @@ const projects = [
   {
     name: "Sudoku Solver",
     description:
-      "Ein Sudoku Löser, manchmal ist ein Tool zu kreieren, dass dir die Lösung vorsagt, spannender als es selbst zu lösen",
+      "Ein Sudoku-Löser zu erstellen, der dir die Lösung vorgibt, ist manchmal spannender als es selbst zu lösen.",
     image: "/suso.png",
     github: "https://github.com/MLxoXxnIhqgn/Sudoku-Solver",
-    link: "",
+    link: "https://github.com/MLxoXxnIhqgn/Sudoku-Solver",
   },
 
 ]

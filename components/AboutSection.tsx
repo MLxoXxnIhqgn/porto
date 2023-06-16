@@ -28,7 +28,7 @@ const AboutSection = () => {
               Das bin ich!
             </h1>
             <p>
-              Hi, ich heiße Axel und bin ein {" "}
+              Ich heiße Axel und bin ein {" "}
               <span className="font-bold">{"sehr motivierter"}</span>,
               <span className="font-bold">{" begeisterungsfähiger"}</span> und
               <span className="font-bold">{" wissbegieriger"}</span> Software Entwickler aus München.
